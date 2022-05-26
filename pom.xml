@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>project-release-repo</name>
+	      <name>project-snapshot-repo</name>
 	      <url>http://44.201.151.246:8081/repository/project-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
